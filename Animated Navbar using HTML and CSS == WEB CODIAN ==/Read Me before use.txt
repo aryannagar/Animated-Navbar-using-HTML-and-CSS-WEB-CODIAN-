@@ -1,0 +1,13 @@
+In this Project, we are creating a transparent navbar using HTML5 and CSS3. In this navbar, you will get a hamburger on which you click side navigation will slide in from the left side and when you will hover on the nav links it will again you a slide-in effect.
+
+Again there is a twist when you click one of the nav links you will get into its link section where you can dive deep on the navigation bar and the best part is this all will be done in the navbar. 
+
+Sounds cool you can try this navbar into your website. If you have any queries or suggestion you can share your thoughts and you can connect with us 
+
+Connect with us: 👉 https://www.facebook.com/webcodian
+
+You find out more about me at: 
+Twitter:  👉 https://twitter.com/Aryan727
+Instagram: 👉 https://www.instagram.com/aryannagar27/
+
+If you like the video then smash that like button and SUBSCRIBE == https://www.shorturl.at/adjLV == to our channel for more interesting topics in the future.
